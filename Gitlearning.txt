@@ -1,0 +1,14 @@
+git status — working directory and staging area lo changes status chupistundi.
+git diff — file changes ni compare chestundi.
+git init — current directory lo Git repository initialize chestundi.
+
+git init — repository initialize cheyyadam
+
+
+
+git add — changes stage cheyyadam
+git commit — local history lo save cheyyadam
+git status — changes status check cheyyadam
+git diff — changes compare cheyyadam
+git push — GitHub ki upload cheyyadam
+git branch is used to create and manage branches
