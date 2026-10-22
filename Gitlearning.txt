@@ -6,7 +6,7 @@ git init — repository initialize cheyyadam
 
 
 
-git add — changes stage cheyyadam
+git add — changes stage cheyyadm
 git commit — local history lo save cheyyadam
 git status — changes status check cheyyadam
 git diff — changes compare cheyyadam
