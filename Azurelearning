@@ -1,0 +1,32 @@
+Module 1:
+
+Design Governance- Management Groups, Subscriptions, Resource groups.
+Managing Compliance
+
+Module 2 :
+Specify the components of Compute based solutions
+Recommend a virtual Machine-based solution
+Container Based solution[ACI]
+
+
+Start with Module 1 :
+===========================
+
+Governance - It describes the process which is like rules & policies.
+Compliance - Tags & Right Policies
+
+Recommend a Proper Governance
+
+
+
+Governance Resources in Azure:
+
+Governance provides mechanisms and processes to maintain control over the applications and resources in azure.
+
+* Determine your requirements, plan your intiatives and set strategic priorities.
+* Plan for governance at entry level
+	* Management groups
+	* Subscriptions
+	* Resource groups
+	* Resources.
+
